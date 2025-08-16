@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "justfile": "just",
+        "iosfwd": "cpp"
+    }
+}
